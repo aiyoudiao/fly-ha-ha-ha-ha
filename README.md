@@ -1,40 +1,17 @@
-
-![Cuberun](./src/textures/cuberun-logo.png)
+## 飞飞飞飞
 
 <p align="center">
-Avoid the cubes while the speed progressively increases! Can you beat the rainbow level?
+开飞机躲避方块♦️，玩点是 宇宙背景、炫彩强光，给人一种很愉悦的感受。
 </p>
 
-----
 
-<br/>
-<img align="left" width="200" src="./osawards-badge.png">
-<br/>
-<p align="center">
-<a href="https://osawards.com/react/2022"><em>Winner of the 2022 React Open Source Awards in the category Fun Side Project of the Year!</em></a>
-</p>
-<br />
-<br/>
+## 控制
 
----
+## PC端
 
-The game is inspired by an old flash game I used to play in the late 2000s called Cubefield. My version is in full 3D and built with React, THREE.js and react-three-fiber to glue them together.
+* 左方向：A键或者左箭头
+* 右方向：D键或者右箭头
 
-I went for a synthwave aesthetic, including some self-composed music, which the visual effects are synced to (so turn the music on!).
+## 移动端
 
-Also features high scores stored locally.
-
-The development process will be detailed on my [website](https://adamkarlsten.com).
-
-## Screenshots
-
-![](./public/regular.PNG)
-![](./public/tunnelred.PNG)
-
-## Controls
-
-* Left: A, LeftArrow
-
-* Right: D, RightArrow
-
-Touch devices have on-screen controls.
+游戏开始后，屏幕下方有左右的箭头

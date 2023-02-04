@@ -1,7 +1,8 @@
 {
-  "name": "cubeworld",
+  "name": "fly-ha-ha-ha-ha",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aiyoudiao.github.io/fly-ha-ha-ha-ha",
   "dependencies": {
     "@react-three/drei": "^5.3.1",
     "@react-three/fiber": "^6.2.2",
@@ -12,11 +13,16 @@
     "three": "^0.129.0",
     "zustand": "^3.5.2"
   },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "scripts": {
     "start": "HOST=0.0.0.0 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "pre-deploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [
