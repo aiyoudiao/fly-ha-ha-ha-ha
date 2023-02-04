@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 import Loader from "./CustomLoader";
 import Author from "./Author";
-
+import cubeRunLogo from "../../textures/cuberun-logo.png";
 import "../../styles/gameMenu.css";
 
 import { useStore } from "../../state/useStore";
@@ -63,7 +63,7 @@ const Overlay = () => {
       }}
     >
       <div className="game__menu">
-        <img className="game__logo" src="cuberun-logo.png" alt="Cuberun Logo" />
+        <img className="game__logo" src={cubeRunLogo} alt="Cuberun Logo" />
         <div className="game__subcontainer">
           {!hasLoaded ? (
             <Loader active={active} progress={progress} />
