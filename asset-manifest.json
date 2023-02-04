@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fly-ha-ha-ha-ha/static/css/main.4446ab56.chunk.css",
+    "main.js": "/fly-ha-ha-ha-ha/static/js/main.94000da8.chunk.js",
+    "main.js.map": "/fly-ha-ha-ha-ha/static/js/main.94000da8.chunk.js.map",
+    "runtime-main.js": "/fly-ha-ha-ha-ha/static/js/runtime-main.47ba8534.js",
+    "runtime-main.js.map": "/fly-ha-ha-ha-ha/static/js/runtime-main.47ba8534.js.map",
+    "static/js/2.17e801ae.chunk.js": "/fly-ha-ha-ha-ha/static/js/2.17e801ae.chunk.js",
+    "static/js/2.17e801ae.chunk.js.map": "/fly-ha-ha-ha-ha/static/js/2.17e801ae.chunk.js.map",
+    "index.html": "/fly-ha-ha-ha-ha/index.html",
+    "static/css/main.4446ab56.chunk.css.map": "/fly-ha-ha-ha-ha/static/css/main.4446ab56.chunk.css.map",
+    "static/js/2.17e801ae.chunk.js.LICENSE.txt": "/fly-ha-ha-ha-ha/static/js/2.17e801ae.chunk.js.LICENSE.txt",
+    "static/media/gameMenu.css": "/fly-ha-ha-ha-ha/static/media/commando.68717231.ttf",
+    "static/media/cuberun-logo.2a67aff7.png": "/fly-ha-ha-ha-ha/static/media/cuberun-logo.2a67aff7.png",
+    "static/media/enginetextureflip.d0f77b17.png": "/fly-ha-ha-ha-ha/static/media/enginetextureflip.d0f77b17.png",
+    "static/media/galaxy.ef4e164b.jpg": "/fly-ha-ha-ha-ha/static/media/galaxy.ef4e164b.jpg",
+    "static/media/galaxyTextureBW.3bf07a9f.png": "/fly-ha-ha-ha-ha/static/media/galaxyTextureBW.3bf07a9f.png",
+    "static/media/grid-rainbow.1dc05ea5.png": "/fly-ha-ha-ha-ha/static/media/grid-rainbow.1dc05ea5.png",
+    "static/media/intro-loop.85c70e50.mp3": "/fly-ha-ha-ha-ha/static/media/intro-loop.85c70e50.mp3",
+    "static/media/main-nodrums.b36a5309.mp3": "/fly-ha-ha-ha-ha/static/media/main-nodrums.b36a5309.mp3",
+    "static/media/main-onlydrums.f5b7b0b0.mp3": "/fly-ha-ha-ha-ha/static/media/main-onlydrums.f5b7b0b0.mp3",
+    "static/media/noise.2793ebd0.png": "/fly-ha-ha-ha-ha/static/media/noise.2793ebd0.png",
+    "static/media/spaceship.e86972b1.gltf": "/fly-ha-ha-ha-ha/static/media/spaceship.e86972b1.gltf",
+    "static/media/speedup.d71ead93.mp3": "/fly-ha-ha-ha-ha/static/media/speedup.d71ead93.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ba8534.js",
+    "static/js/2.17e801ae.chunk.js",
+    "static/css/main.4446ab56.chunk.css",
+    "static/js/main.94000da8.chunk.js"
+  ]
+}
